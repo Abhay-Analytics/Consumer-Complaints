@@ -4,10 +4,16 @@ With the retail market getting more and more competitive by the day, there has n
 Ideally, a retailer’s customer data reflects the company’s success in reaching and nurturing its customers. Retailers built reports summarizing customer behavior using metrics such as conversion rate, average order value, recency of purchase and total amount spent in recent transactions. These measurements provided general insight into the behavioral tendencies of customers.
 Customer intelligence is the practice of determining and delivering data-driven insights into past and predicted future customer behavior.To be effective, customer intelligence must combine raw transactional and behavioral data to generate derived measures.
 In a nutshell, for big retail players all over the world, data analytics is applied more these days at all stages of the retail process – taking track of popular products that are emerging, doing forecasts of sales and future demand via predictive simulation, optimizing placements of products and offers through heat-mapping of customers and many others.
+
 DATA AVAILABILITY:
-	Retail Data.xlsx
-o	This book has three sheets (Customer, Transaction, Product Heirarchy)
-o	Customer: Customers information including demographics
-o	Transaction: Transactions of customers
-o	Product Heirarchy: Product information (cateogry, sub category etc...)
+
+Retail Data.xlsx
+
+--> This book has three sheets (Customer, Transaction, Product Heirarchy)
+
+--> Customer: Customers information including demographics
+
+-->	Transaction: Transactions of customers
+
+-->	Product Heirarchy: Product information (cateogry, sub category etc...)
 
